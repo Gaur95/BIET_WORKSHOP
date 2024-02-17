@@ -1,7 +1,8 @@
 # BIET_WORKSHOP
 # terraform installation link
 https://developer.hashicorp.com/terraform/install
-### terraform command
+### copy main.tf and userdata.txt in a folder then run below command in cmd  
+## terraform command
 ```
 terraform init
 terraform apply
