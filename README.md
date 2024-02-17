@@ -3,6 +3,10 @@
 https://developer.hashicorp.com/terraform/install
 ### terraform command
 ```
+terraform init
+terraform apply
+```
+```
 akash@sky:~/Desktop/myterraform$ terraform init
 
 Initializing the backend...
